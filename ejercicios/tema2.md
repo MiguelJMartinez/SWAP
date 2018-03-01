@@ -6,6 +6,8 @@ la respuesta
 
 y la imagen:
 
-![comentario]()
+![comentario](https://github.com/MiguelJMartinez/SWAP/blob/master/ejercicios/img.png)
+
+y fin
 
 
