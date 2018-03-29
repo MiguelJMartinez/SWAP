@@ -1,6 +1,7 @@
 # Práctica1
 
-**el enunciado**
+**El objetivo principal de esta práctica es la correcta instalación de las máquinas que van a actuar como servidores, y la instalación de algunas herramientas que nos permitan comunicarnos entre ambas. 
+Se han instalado 2 máquinas virtuales llamadas swap1 y swap2, respectivamente, con ubuntu server con una instalación por defecto.**
 
 la respuesta
 
