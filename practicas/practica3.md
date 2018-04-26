@@ -26,7 +26,7 @@ También, al igual que pasaba con nginx podemos cambiar la configuración de hap
 
 # Pruebas con AB
 
-Instalamos una nueva máquina para que realice peticiones mediante Apache Benchmarck a las máquinas servidoras. Para ello, simplemente ejecutamos en consola el comando ab -n 1000 -c 10 http://ip_maquina/index.html (la idea es obtener estadísticas de ambos balanceadores para "medir" su rendimiento, aunque en este caso no sea muy realista).
+Instalamos una nueva máquina que va a actuar como cliente del sistema (con IP 192.168.56.50), para que realice peticiones mediante Apache Benchmarck a las máquinas servidoras. Para ello, simplemente ejecutamos en consola el comando ab -n 1000 -c 10 http://ip_maquina/index.html (la idea es obtener estadísticas de ambos balanceadores para "medir" su rendimiento, aunque en este caso no sea muy realista).
 
 Con -n, estamos indicando el número de peticiones que se realizan, y con -c el grado de concurrencia de éstas.
 
