@@ -56,4 +56,4 @@ Lo enviamos a /etc/init.d y añadimos una regla en /etc/crontab paraa que se eje
 
 Comprobamos que sigue siendo posible hacer las peticiones por https, y con netstat -tulpn vemos los puertos que hay abiertos.
 
-![comentario](https://github.com/MiguelJMartinez/SWAP/blob/master/imagenes/netstat.png)
+![comentario](https://github.com/MiguelJMartinez/SWAP/blob/master/imagenes/net.png)
